@@ -20,7 +20,7 @@
   This is a Netflix clone developed as part of a personal project. The project was built using HTML, Tailwind CSS & JavaScript. Below are some details about how the site was structured and some key functionalities. (The responsive design is being developed).
 
 
-  ### **LIVE DEMO : [TRY NOW](killer-net.vercel.app)** 😍
+  ### **LIVE DEMO : [TRY NOW](https://killer-net.vercel.app/)** 😍
 
 </div>
 
